@@ -1,10 +1,3 @@
-
-// CONEVA CONEVA !!!
-
-
-
-
-
 import java.util.Scanner;
 
 public class probabilities {
